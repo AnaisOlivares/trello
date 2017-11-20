@@ -17,7 +17,9 @@ h1 {
   text-align: center;
   color: white;
 }
-
+h3 {
+  margin: 20px;
+}
 #spaner {
   padding: 10px;
   background-color: pink;
@@ -31,7 +33,6 @@ h1 {
 }
 
 .divSquare {
-  height: 70px;
   width: 250px;
   padding: 2px 5px;
   border-radius: 0px;
@@ -49,3 +50,12 @@ h1 {
     float: left;
     margin: 0 5px;
  }*/
+img {
+    height: 300px;
+    width: 100px;
+    width: 100px;
+    height: 30px;
+    margin-left: 600px;
+    display: inline-block;
+    text-align: center;
+}
